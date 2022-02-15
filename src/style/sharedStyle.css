@@ -221,7 +221,7 @@ span.highlight {
 
 /* Images */
 #about-me-img {
-  width: 300px;
+  width: 400px;
 }
 
 .voyager-img {
@@ -288,7 +288,7 @@ span.highlight {
 
 #navbar-logo h4:hover:before {
   color: var(--link);
-  content: "J X F";
+  content: "馮佳嫻";
 }
 
 #navbar-logo #logo-secondary {

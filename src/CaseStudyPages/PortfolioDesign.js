@@ -71,6 +71,7 @@ class PortfolioDesign extends React.Component {
               </ul>
               <br/>
               <p>Hearing several times that recruiters have to skim hundreds of portfolios and resumes, and that the cookie cutter process wasn't as important.</p>
+              <br/>
               <p>I started out with the common Home, About, Work pages, but decided to condense/simplify that down even more to just two pages.</p>           
             </div> 
           </div>
@@ -79,7 +80,9 @@ class PortfolioDesign extends React.Component {
             <div className="inner-section-left">
               <h3>Design <hr className="line"/></h3>
               <p>I decided to focus on the main design problem and goal for my initial portfolio, instead of the nitty-gritty steps. I iterated through a few different designs on both Figma and Wix (see artifacts below).</p>
+              <br/>
               <p>I also decided to code my own portfolio to learn more about React and get more practice in.</p>
+              <br/>
               <p>I'm a pretty practical person and love minimalistic designs. However, I've heard critiques about minimalism being a lack of visual design.</p>
               {/* TODO: Add color scheme and logo branding */}     
             </div>
@@ -89,6 +92,7 @@ class PortfolioDesign extends React.Component {
             <div className="inner-section-left">
               <h3>Learnings <hr className="line"/></h3>
               <p>Building out my first portfolio gave me hands-on experience with various no-code low-code portfolio builders (such as Wix and Webflow), and it also </p>
+              <br/>
               <p>Further exploration of React and coding more visual components into my portfolio. I also want to continue improving on the accessibility, and storytelling of my case studies.</p>       
             </div>
           </div>

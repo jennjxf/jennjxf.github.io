@@ -14,7 +14,7 @@ class Navbar extends React.Component {
           >
             {/* <img src="/images/jxfLogo.svg" alt="the letters j, x, and f" id="logo-default" /> */}
             {/* <img src="/images/image 4.svg" alt="chinese characters for feng jia xian" id="logo-secondary" /> */}
-            <h4><span>馮佳嫻</span></h4>
+            <h4><span>J X F</span></h4>
           </NavLink>
         </div>
         <div id="navbar-links">

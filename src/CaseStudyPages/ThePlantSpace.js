@@ -12,7 +12,7 @@ class ThePlantSpace extends React.Component {
           <div className="inner-section-center">
             <h1><span className="highlight">The Plant Space</span></h1>
             <br/>
-            <p>E-commerce project for UX certificate program at School of Visual Concepts. The Plant Space is an online and local shop that helps you find indoor plants that fit your lifestyle, and provides the support you need for you and your plants to thrive.</p>
+            <p>E-commerce project for UX certificate program at School of Visual Concepts.</p>
             <br/>
             <br/>
             <PrimaryButton link="/" text="See Prototype" />
@@ -37,8 +37,10 @@ class ThePlantSpace extends React.Component {
             <div className="overview-section-col">
               <h3>Background <hr className="line"/></h3>
               <p>
-                Transitioning to design meant that I needed to start a portfolio to showcase my work. This is the first portfolio I've created, and I wanted to apply my design learning to this portfolio project.
+                The Plant Space is an online and local shop that helps you find indoor plants that fit your lifestyle, and provides the support you need for you and your plants to thrive.
               </p>
+              <br/>
+              <p>This project was accomplished in alignment with the UX certificate courses.</p>
             </div>
             <div className="overview-section-col">
               <img src="/images/testImage.png" alt="" />
@@ -54,6 +56,7 @@ class ThePlantSpace extends React.Component {
               <p>Indoor plant sales have increased since 2020. Many plant parents still rely on information online and in community groups.</p>
               <br/>
               <p>Although plant shops have an online presence, their website typically don't provide information on how to select or take care of plants.</p>
+              <br/>
               <p>Additionally, people are still wary of shopping online for plants.</p>
             </div>
           </div>
@@ -88,9 +91,9 @@ class ThePlantSpace extends React.Component {
           <div className="section">
             <div className="inner-section-left">
               <h3>Design <hr className="line"/></h3>
-              <p>I decided to focus on the main design problem and goal for my initial portfolio, instead of the nitty-gritty steps. I iterated through a few different designs on both Figma and Wix (see artifacts below).</p>
-              <p>I also decided to code my own portfolio to learn more about React and get more practice in.</p>
-              <p>I'm a pretty practical person and love minimalistic designs. However, I've heard critiques about minimalism being a lack of visual design.</p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nunc dolor, finibus ut venenatis sit amet, imperdiet gravida arcu. Nunc dignissim facilisis nisl. Curabitur suscipit, tellus ut vestibulum sollicitudin, velit lectus ullamcorper nulla, eu suscipit libero magna ut neque. Duis malesuada nisl velit. Vivamus ultrices velit non lectus laoreet vehicula. Nam id odio efficitur, gravida ligula quis, elementum velit. Donec egestas velit at enim efficitur, nec volutpat erat lacinia.</p>
+              <br/>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nunc dolor, finibus ut venenatis sit amet, imperdiet gravida arcu. Nunc dignissim facilisis nisl. Curabitur suscipit, tellus ut vestibulum sollicitudin, velit lectus ullamcorper nulla, eu suscipit libero magna ut neque. Duis malesuada nisl velit. Vivamus ultrices velit non lectus laoreet vehicula. Nam id odio efficitur, gravida ligula quis, elementum velit. Donec egestas velit at enim efficitur, nec volutpat erat lacinia.</p>
               <p>Fitt's Law</p>
             </div>
           </div>
@@ -98,8 +101,7 @@ class ThePlantSpace extends React.Component {
           <div className="alternate-section">
             <div className="inner-section-left">
               <h3>Learnings <hr className="line"/></h3>
-              <p>Building out my first portfolio gave me hands-on experience with various no-code low-code portfolio builders (such as Wix and Webflow), and it also </p>
-              <p>Further exploration of React and coding more visual components into my portfolio. I also want to continue improving on the accessibility, and storytelling of my case studies.</p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nunc dolor, finibus ut venenatis sit amet, imperdiet gravida arcu. Nunc dignissim facilisis nisl. Curabitur suscipit, tellus ut vestibulum sollicitudin, velit lectus ullamcorper nulla, eu suscipit libero magna ut neque. Duis malesuada nisl velit. Vivamus ultrices velit non lectus laoreet vehicula. Nam id odio efficitur, gravida ligula quis, elementum velit. Donec egestas velit at enim efficitur, nec volutpat erat lacinia.</p>
             </div>
           </div>
 

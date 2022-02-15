@@ -11,13 +11,15 @@ class About extends React.Component {
         <div className="about-me-content">
           <h1>About me</h1>
           <p>
-            I'm a software engineer at Microsoft with cloud service and application crashes, with prior experience as a tax accountant.
+            I'm a software engineer at Microsoft providing internal teams insights into their cloud service or application crashes. Previously a tax accountant.
           </p>
+          <br/>
           <p>
-            My design style is oriented around...
+            My design style is oriented around utilizing my different skillsets to understand the root problem and create better experiences for people.
           </p>
+          <br/>
           <p>
-            I'm also a cat &#128008; and plant &#127793; parent, a traveler, and a milk tea consumer. I create random content and templates in my spare time, and am constantly learning.
+            I'm also a cat &#128008; and plant &#127793; parent, a traveler, and a milk tea consumer. I create random content and templates in my spare time, and am perpetually learning.
           </p>
         </div>
       </div>
