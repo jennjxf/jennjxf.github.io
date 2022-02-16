@@ -3,6 +3,7 @@ import './../style/sharedStyle.css';
 import PrimaryButton from '../Components/PrimaryButton';
 import Portfolio from './Portfolio';
 import ToTopButton from '../Components/ToTopButton';
+import Footer from '../Components/Footer';
 
 class Homepage extends React.Component {
   render() {
@@ -11,9 +12,9 @@ class Homepage extends React.Component {
         <div className="section">
           <h4>Hi, I'm Jenn <span className="emoji">&#x1F44B;&#127996;</span></h4>
           <br/>
-          <h1 className="design-summary">
+          <h2 className="design-summary">
             I use my multidisciplinary background to <span className="highlight">design better experiences for people</span>.
-          </h1>
+          </h2>
           <br/>
           <br/>
           <p className="short-text">
@@ -50,6 +51,7 @@ class Homepage extends React.Component {
         <div className="section">
           <Portfolio/>
         </div>
+        <Footer />
         <ToTopButton/>
       </div>
     );

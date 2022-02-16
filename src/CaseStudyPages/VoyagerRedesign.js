@@ -84,7 +84,9 @@ class VoyagerRedesign extends React.Component {
             </ul>
             <br/>
             <p>I conducted an initial survey to see a sample group's experience or knowledge about crypto and crypto investing platforms in general.</p>
+            <br/>
             <p>From this sample of 8, I conducted a hybrid of contextual inquiry and interview on a selection of 5 to understand what their initial experience with Voyager.</p>
+            <br/>
             <p>Based on the research insights:</p>
             <div className="insight-card-section">
               <div className="insight-card">

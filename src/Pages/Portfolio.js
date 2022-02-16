@@ -11,20 +11,20 @@ class Portfolio extends React.Component {
         <div className="case-study-container">
           <CaseStudy
             link="/theplantspace"
-            img="/images/testImage.png"
+            img="/images/voyager-redesign/mockup-redesign.png"
             altText="alt text"
             caseStudyType="Product Design"
             title="The Plant Space"
             description="E-commerce plant shop."
           />
-          <CaseStudy
+          {/* <CaseStudy
             link="/portfoliodesign"
             img="/images/mockPortfolio.svg"
             altText="alt text"
             caseStudyType="Product Design"
             title="Portfolio Design"
             description="Portfolio for UX designer."
-          />
+          /> */}
           <CaseStudy
             link="/voyagerredesign"
             img="/images/voyager-redesign/mockup-redesign.png"

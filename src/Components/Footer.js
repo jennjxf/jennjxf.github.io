@@ -6,7 +6,7 @@ class Footer extends React.Component {
     return (
       <div id="footer">
         {/* TODO: Have hover state for the footer icons */}
-        <a href="#">
+        {/* <a href="#">
           <img src="/images/linkedinIcon.svg" className="linkedin-icon" alt="linkedin logo" />
         </a>
         <a href="#">
@@ -14,7 +14,8 @@ class Footer extends React.Component {
         </a>
         <a href="#">
           <img src="/images/instagramIcon.svg" className="instagram-icon" alt="instagram logo" />
-        </a>
+        </a> */}
+        designed &amp; coded by Jenn
       </div>
     );
   }
