@@ -163,7 +163,7 @@ class VoyagerRedesign extends React.Component {
           </div>
         </div>
         <BackButton link="/#portfolio" text="&#x2190;"/>
-        <ToTopButton/>
+        {/* <ToTopButton/> */}
       </div>
     );
   }

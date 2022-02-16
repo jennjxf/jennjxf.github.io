@@ -52,7 +52,7 @@ class Homepage extends React.Component {
           <Portfolio/>
         </div>
         <Footer />
-        <ToTopButton/>
+        {/* <ToTopButton/> */}
       </div>
     );
   }

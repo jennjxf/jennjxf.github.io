@@ -15,6 +15,7 @@ import UnfoundPage from './Pages/UnfoundPage';
 import VoyagerRedesign from './CaseStudyPages/VoyagerRedesign';
 import PortfolioDesign from './CaseStudyPages/PortfolioDesign';
 import ThePlantSpace from './CaseStudyPages/ThePlantSpace';
+import ToTopButton from './Components/ToTopButton';
 
 class App extends React.Component {
   render() {
@@ -60,6 +61,7 @@ class App extends React.Component {
                   </Switch>
                 </div>
             </div>
+          <ToTopButton/>
           </Protect>
         </div>
       </Router>
